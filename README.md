@@ -6,6 +6,7 @@ Lighthouse score:
   <img src="https://github.com/ijklim/deploy_vue_shared_hosting/blob/master/lighthouse-score.png" width="832px">
 </p>
 
+[Demo](https://pingshuai.aiwebstudio.com)
 
 ## Getting Started
 
