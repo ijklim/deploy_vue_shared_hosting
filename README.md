@@ -8,6 +8,10 @@ Lighthouse score:
 
 [Demo](https://pingshuai.aiwebstudio.com)
 
+## Features
+* http redirects to https
+* Hashbang(#) removed from url
+
 ## Getting Started
 
 The source code used in this project can be found at https://github.com/ijklim/pingshuai.
